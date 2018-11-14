@@ -1,0 +1,93 @@
+commit 8ef8075ec4473c8d85b9633567011eeee249f75d
+Merge: cc1e7f1 43878d3
+Author: FranciscoTec <A01027294@itesm.mx>
+Date:   Wed Nov 7 11:30:49 2018 -0600
+
+    resolvi los conflictos
+
+commit cc1e7f182111435817187141ffca2bce50e5ba7b
+Author: FranciscoTec <A01027294@itesm.mx>
+Date:   Wed Nov 7 11:25:57 2018 -0600
+
+    actualizacion local
+
+commit 43878d335ef51b0233f7a4d083a5546cccaf47e8
+Author: FranciscoTec <42215181+FranciscoTec@users.noreply.github.com>
+Date:   Wed Nov 7 11:25:08 2018 -0600
+
+    Update tarea10.txt
+    
+    modificacion remota de tarea 10
+
+commit 40353e7b33fa92b6eb744b73e282c55ea28ac318
+Merge: 0c988b1 56c3980
+Author: FranciscoTec <A01027294@itesm.mx>
+Date:   Wed Nov 7 11:15:06 2018 -0600
+
+    Merge branch 'master' of https://github.com/FranciscoTec/Practicastc1022
+    
+    Este merge es para combinar tarea10 con tarea11 remota
+
+commit 56c39803f8b01d5a28486cf66c2eaf7eab5f9968
+Author: FranciscoTec <42215181+FranciscoTec@users.noreply.github.com>
+Date:   Wed Nov 7 11:13:51 2018 -0600
+
+    Create tarea11.txt
+    
+    la tarea :v
+
+commit 0c988b15adc6d9ef51885ba6e343e4ebe2dbac82
+Author: FranciscoTec <A01027294@itesm.mx>
+Date:   Wed Nov 7 11:11:04 2018 -0600
+
+    tarea local
+
+commit d6bc0b3450a93b69465f169cd762a2753e3a10c7
+Author: FranciscoTec <42215181+FranciscoTec@users.noreply.github.com>
+Date:   Fri Oct 26 21:44:57 2018 -0500
+
+    Add files via upload
+
+commit b7bd59f410feadeb16822ddff8577cb17d0d1942
+Author: FranciscoTec <A01027294@itesm.mx>
+Date:   Wed Oct 24 12:13:51 2018 -0500
+
+    hola
+
+commit 90d2624472b4b30d826077a61d2d7c54db487b0b
+Author: FranciscoTec <42215181+FranciscoTec@users.noreply.github.com>
+Date:   Wed Oct 24 12:09:29 2018 -0500
+
+    Add files via upload
+
+commit 7e4fdc8f1fd89c68ed297db7ded4d0a958916997
+Author: FranciscoTec <42215181+FranciscoTec@users.noreply.github.com>
+Date:   Wed Oct 24 11:45:24 2018 -0500
+
+    Add files via upload
+
+commit ecf636b2d69755b35b4ed35431e780928c51a6c1
+Author: FranciscoTec <42215181+FranciscoTec@users.noreply.github.com>
+Date:   Wed Oct 24 11:36:45 2018 -0500
+
+    Add files via upload
+
+commit 5d319bbb304a6bc3d71743d142aab2cd0c286921
+Author: FranciscoTec <42215181+FranciscoTec@users.noreply.github.com>
+Date:   Wed Oct 24 11:21:57 2018 -0500
+
+    Delete LlavePrivada.gpg
+    
+    Se elimino la llave privada
+
+commit 5b87842cadb1ea42f461b20a85c274c8d8613299
+Author: FranciscoTec <A01027294@itesm.mx>
+Date:   Wed Oct 24 11:15:53 2018 -0500
+
+    exportar llaves publicas y privadas
+
+commit 58c42590ba4c905e7dafbbc9dccdb0aa02f9f239
+Author: A01027294@itesm.mx <A01027294@itesm.mx>
+Date:   Wed Oct 10 13:05:03 2018 -0500
+
+    primer commit
